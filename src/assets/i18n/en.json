@@ -1,0 +1,16 @@
+{
+  "user": {
+    "name": "Name",
+    "username": "UserName",
+    "email": "E-mail",
+    "address": {
+      "street": "Street",
+      "city": "City"
+    },
+    "phone": "Phone",
+    "website": "WebSite",
+    "company": {
+      "name": "Name OF Company"
+    }
+  }
+}
